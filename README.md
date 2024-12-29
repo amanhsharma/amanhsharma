@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Aman Sharma
+<br>
+<h3>  I'm a first-year Computer Science and Engineering student at MIT, Manipal, exploring the world of coding, development, and innovation. 🚀</h3>
 
 <!--
 **amanhsharma/amanhsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
